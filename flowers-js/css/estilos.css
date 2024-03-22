@@ -1,0 +1,22 @@
+
+#menu {background-color: rgb(0, 0, 0);}
+
+
+#menu li {display: inline;
+}
+
+#menu {
+   text-align: center;
+   margin-top: -40px;
+}
+
+#menu li {
+   padding: 15px;
+}
+
+#menu a {
+   color: rgb(255, 247, 247);
+   text-decoration: non;
+}
+
+ 
